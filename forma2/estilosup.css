@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.text{
+    width: 85%;
+    max-width: 1000px;
+    margin: auto;
+}
+
+.text p{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin: 15px;
+}
+
+#scrollUp {
+    bottom: 20px;
+    right: 20px;  
+    width: 40px;
+    height: 40px;
+    background-image: url('up1.png');
+    background-size: cover;
+    border-radius: 50%;
+  }
+
+
